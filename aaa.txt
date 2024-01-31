@@ -1,0 +1,10 @@
+git remote add origin https://github.com/yamin-rahman/samsung-s24-ultra.git
+git branch -M main
+git push -u origin main
+
+Things we are going to need to make this website:
+1. Small samsung logo
+2. search icon
+3. shopping cart icon
+4. person icon
+5. A nice image of S 24 ultra

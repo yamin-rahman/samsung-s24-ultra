@@ -1,0 +1,119 @@
+.samsung-icon-small{
+    width: 120px;
+}
+.nav-bar{
+    display: flex;
+    font-family: sans-serif;
+    text-decoration: none;
+    /* padding-top: 500px; */
+  
+}
+.one{
+margin-right: 20px;
+margin-left: 60px;
+color: black;
+}
+.two{
+    margin-right: 20px;
+    color: black;
+}
+.three{
+    margin-right: 20px;
+    color: black;
+}
+.four{
+    margin-right: 20px;
+    color: black;
+}
+.five{
+    margin-right: 20px;
+    color: black;
+}
+.six{
+    margin-right: 20px;
+    color: black;
+}
+.seven{
+    margin-right: 20px;
+    color: black;
+}
+.eight{
+    margin-right: 20px;
+    color: black;
+    margin-right: 120px;
+}
+.nine{
+margin-right: 10px;
+color: black;
+}
+.ten{
+margin-right: 10px;
+color: black;
+}
+.eleven{
+margin-right: 30px;
+color: black;
+}
+.icons-1{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-right: 15px;
+    color: black;
+}
+.icons-2{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    margin-right: 15px;
+    color: black;
+}
+.icons-3{
+    width: 20px;
+    height: 20px;
+    margin-top: 15px;
+    color: black;
+    /* margin-right: 15px; */
+}
+.main-txt{
+    font-family: sans-serif;
+    line-height: 0.45;
+  
+    
+}
+.galaxy-24{
+    margin-top: px;
+    font-weight: bolder;
+    font-size: 40px;
+    margin-left: 60px;
+}
+.galaxy-txt{
+    margin-left: 50px;
+}
+.link-first{
+    margin-left: 60px;
+    margin-top: 30px;
+    color: black;
+    font-weight: bolder;
+    margin-right: 50px;
+}
+.not-txtx-main{
+    display: flex;
+    margin-top: 40px;
+}
+.button-first{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+.img-main{
+float: right;
+width: 600px;
+margin-top: 0px;
+height: 550px;
+
+}
+.margin{
+   padding-top: 250px;
+}
